@@ -8,3 +8,5 @@ Each board will have one red and one blue queen at different coordinates. In add
 
 
 https://github.com/samuelclark907/chess-board/pull/1
+
+collaberated with Karlo
